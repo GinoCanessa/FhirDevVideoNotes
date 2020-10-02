@@ -1,1 +1,1 @@
-# FhirDevVideoNotes
+This repository is for notes, links, etc. from the [FHIR for Developers](https://www.youtube.com/playlist?list=PLsR-zcO--dypUxuALrmuq70aM-VGX_ql1) video series.
