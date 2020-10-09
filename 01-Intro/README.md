@@ -1,4 +1,4 @@
-Intro to FHIR for Developers:
+# Intro to FHIR for Developers
 
 * Video overview (agenda / target audience)
 * What is FHIR?
