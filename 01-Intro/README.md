@@ -38,3 +38,9 @@
     * Regular calls
   * [DevDays](https://www.devdays.com/)
 * [Accelerators](http://www.hl7.org/about/fhir-accelerator/index.cfm)
+
+
+
+# Further Information
+
+* [General Intro to FHIR](https://youtu.be/rJ_VEKiR55I) - DevDays (2019 EU)
