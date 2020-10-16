@@ -7,4 +7,6 @@ Video tutorial series with information for developers new to FHIR.
 |Video|Readme|Repo|Description|
 |-----|------|----|-----------|
 |[Getting Started](https://youtu.be/m2O6HiA1Z7g)|[01-Intro](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/01-Intro/README.md)|-|Introductory video (What is FHIR?, Navigating the Spec)
-|FHIR via HTTP|02-FHIR-HTTP|-|How to interact with a FHIR server via HTTP and the RESTful API
+|[FHIR via HTTP](https://www.youtube.com/watch?v=eBAQYMT2KtM)|[02-FHIR-HTTP](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/02-FHIR-HTTP/README.md)|-|How to interact with a FHIR server via HTTP and the RESTful API.
+|[Getting SMART: Authorization Overview](https://www.youtube.com/watch?v=4okFXW0Ex1E)|[03-Getting SMART](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/03-Getting-SMART/README.md)|-|Overview of SMART Authorization / App Launch Framework.
+|C# CLI|04-C# Project 01|-|A basic .Net Core CLI application in C# to connect to an open FHIR server.
