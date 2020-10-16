@@ -1,5 +1,11 @@
 # Intro to FHIR for Developers
 
+## Video Link
+
+[Getting Started... What is FHIR?](https://www.youtube.com/watch?v=m2O6HiA1Z7g)
+
+## Notes
+
 * Video overview (agenda / target audience)
 * What is FHIR?
   * Fast Healthcare Interoperability Resources
@@ -41,6 +47,6 @@
 
 
 
-# Further Information
+## Further Information
 
 * [General Intro to FHIR](https://youtu.be/rJ_VEKiR55I) - DevDays (2019 EU)
