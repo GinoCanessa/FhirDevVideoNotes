@@ -4,7 +4,7 @@ This session covers building a basic .Net Core CLI application in C# to connect 
 
 ## Video Link
 
-(Recording in progress...)
+[C# Tutorial 01 Part 01](https://youtu.be/k9VKg0E1evM)
 
 ## Notes
 
