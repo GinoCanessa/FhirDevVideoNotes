@@ -4,10 +4,10 @@ This session begins the exploration of using SMART FHIR servers from C#.
 
 ## Video Links
 
-* [SMART C# With a Local Server Part 01]()
-* [SMART C# With a Local Server Part 02]()
-* [SMART C# With a Local Server Part 03]()
-* [SMART C# With a Local Server Part 04]()
+* [SMART C# With a Local Server Part 01](https://youtu.be/lrlQjpGdKI0)
+* [SMART C# With a Local Server Part 02](https://youtu.be/250UNIdndeY)
+* [SMART C# With a Local Server Part 03](https://youtu.be/_WNBRxvNORg)
+* [SMART C# With a Local Server Part 04](https://youtu.be/3CWpn3FtpX8)
 
 ## Notes
 
