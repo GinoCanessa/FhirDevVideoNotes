@@ -8,6 +8,7 @@ This session begins the exploration of using SMART FHIR servers from C#.
 * [SMART C# With a Local Server Part 02](https://youtu.be/250UNIdndeY)
 * [SMART C# With a Local Server Part 03](https://youtu.be/_WNBRxvNORg)
 * [SMART C# With a Local Server Part 04](https://youtu.be/3CWpn3FtpX8)
+* [SMART C# With a Local Server Part 05](https://youtu.be/L0FefJZrOVY)
 
 ## Notes
 
@@ -18,17 +19,19 @@ This session begins the exploration of using SMART FHIR servers from C#.
   * Create repo
   * Install NuGet Packages
 * Part 2: Discovering SMART
-    * Via FHIR metadata
-    * Via .well-known
+  * Via FHIR metadata
+  * Via .well-known
 * Part 3: Setting up a webserver
-    * Basic setup
-    * Determining port
-    * Running in the background
+  * Basic setup
+  * Determining port
+  * Running in the background
 * Part 4: Completing a flow
-    * Launch authorization
-    * Receive code
-    * Exchange code for Token
-
+  * Launch authorization
+  * Receive code
+  * Exchange code for Token
+* Part 5: Using a Token
+  * Parsing the SMART return
+  * Using a Token with a FHIRClient
 
 ## Tools
 
