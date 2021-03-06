@@ -5,6 +5,7 @@ This set of videos covers building a C# SMART application with a custom URI sche
 ## Video Links
 
 * [SMART C# With a custom URI scheme Part 01](https://youtu.be/APzpXFTZk6E)
+* [SMART C# With a custom URI scheme Part 02](https://youtu.be/BWppNWHs-B8)
 
 ## Notes
 
@@ -15,7 +16,12 @@ This set of videos covers building a C# SMART application with a custom URI sche
   * Create repo
   * Install NuGet Packages
   * Configure URI scheme in Windows (registry)
-
+* Part 2: Finishing Up
+  * Use named mutex to only allow one instance of the application to stay open
+  * Use named pipes to allow sending URLs to the 'main' instance of the application
+  * Use `.well-known/smart-configuration` instead of the FHIR CapabilityStatement for SMART discovery
+  * Use the custom redirect URI to complete the SMART App Launch Flow
+    * Note: uses code from the [Local Server](https://github.com/GinoCanessa/FHIR-CS-SMART-Local) project when possible
 
 ## Tools
 
@@ -40,3 +46,5 @@ This set of videos covers building a C# SMART application with a custom URI sche
   * `dotnet add package Microsoft.Win32.Registry --version 6.0.0-preview.1.21102.12`
 * [System.CommandLine.DragonFruit](https://www.nuget.org/packages/System.CommandLine.DragonFruit/)
   * `dotnet add package System.CommandLine.DragonFruit --version 0.3.0-alpha.20574.7`
+* [Hl7.Fhir.R4](https://www.nuget.org/packages/Hl7.Fhir.R4/)
+  * `dotnet add package Hl7.Fhir.R4 --version 3.0.0`
