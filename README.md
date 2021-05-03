@@ -19,6 +19,6 @@ Video tutorial series with information for developers new to FHIR.
 |[SMART C# - URI Scheme Part 01](https://youtu.be/APzpXFTZk6E)|[07-C# SMART (URI scheme)](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/07-CS-SMART-Handler/README.md)|[FHIR C# SMART with URI Handler](https://github.com/GinoCanessa/FHIR-CS-SMART-Handler)|Setup and URI Registration (Windows)
 |[SMART C# - URI Scheme Part 02](https://youtu.be/BWppNWHs-B8)|[07-C# SMART (URI scheme)](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/07-CS-SMART-Handler/README.md)|[FHIR C# SMART with URI Handler](https://github.com/GinoCanessa/FHIR-CS-SMART-Handler)|Setup and URI Registration (Windows)
 |[FHIR Profiles - An Introduction](https://youtu.be/dFiMAGFPNv8)| | |An overview of FHIR Profiles|
-|[Profiles and Validation in C# Part 01](https://youtu.be/yMV5-fEHdMA)|[08 - C# Profiles and Validation](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/README.md)|[FHIR C# Profiles and Validation](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic)|An overview of FHIR Profiles|
+|[Profiles and Validation in C# Part 01](https://youtu.be/yMV5-fEHdMA)|[08 - C# Profiles and Validation](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)|[FHIR C# Profiles and Validation](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic)|An overview of FHIR Profiles|
 
 
