@@ -6,11 +6,13 @@ This set of videos covers building a C# application to demonstrate the use of pr
 
 * [FHIR Profiles - An Introduction](https://youtu.be/dFiMAGFPNv8)
 * [Profiles and Validation in C# Part 01](https://youtu.be/yMV5-fEHdMA)
+* [Profiles and Validation in C# Part 02](https://youtu.be/UlkZfttzFJE)
 
 ## Notes
 
 * Part 1: Introduction to Profiles
-* Part 2: [C# Profiles and Validation, Part 1](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
+* Part 2: [C# Profiles and Validation, Getting Started](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
+* Part 3: [C# Profiles and Validation, Making Profiles More Usable(https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
 
 ## Tools
 
