@@ -6,7 +6,7 @@ This set of videos covers building a C# application to demonstrate the use of pr
 
 * [FHIR Profiles - An Introduction](https://youtu.be/dFiMAGFPNv8)
 * [Profiles and Validation in C# Part 01](https://youtu.be/yMV5-fEHdMA)
-* [Profiles and Validation in C# Part 02](https://youtu.be/UlkZfttzFJE)
+* [Profiles and Validation in C# Part 02](https://youtu.be/zZG5Z_DxmBM)
 
 ## Notes
 
