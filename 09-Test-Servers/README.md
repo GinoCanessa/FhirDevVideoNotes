@@ -40,3 +40,15 @@ This set of videos covers setting up various FHIR servers for testing.
 * Default Endpoint (R4):
   * https://localhost:9443/fhir-server/api/v4
 
+## Spark FHIR Server
+
+* Video
+  * [Local Test Server - Spark](https://youtu.be/lQGOgQHfDJc)
+* Links
+  * [GitHub](https://github.com/FirelyTeam/spark)
+* Commands
+  * `curl 'https://raw.githubusercontent.com/FirelyTeam/spark/r4/master/.docker/docker-compose.example.yml' > docker-compose.yml`
+  * `docker compose up`
+* Default Endpoint (R4):
+  * https://localhost:5555/fhir
+

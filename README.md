@@ -25,3 +25,4 @@ Video tutorial series with information for developers new to FHIR.
 |[Local Test Server - Azure](https://youtu.be/o7mBoNGO-WY)|[Test Servers](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/09-Test-Servers/README.md)|-|Setting up a local Azure FHIR server for testing|
 |[Local Test Server - HAPI](https://youtu.be/EaJpJ0aQjiM)|[Test Servers](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/09-Test-Servers/README.md)|-|Setting up a local HAPI FHIR server for testing|
 |[Local Test Server - IBM](https://youtu.be/eirDH6BPD3g)|[Test Servers](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/09-Test-Servers/README.md)|-|Setting up a local IBM FHIR server for testing|
+|[Local Test Server - Spark](https://youtu.be/lQGOgQHfDJc)|[Test Servers](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/09-Test-Servers/README.md)|-|Setting up a local IBM FHIR server for testing|
