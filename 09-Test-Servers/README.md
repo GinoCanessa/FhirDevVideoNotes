@@ -46,6 +46,7 @@ This set of videos covers setting up various FHIR servers for testing.
   * [Local Test Server - Spark](https://youtu.be/lQGOgQHfDJc)
 * Links
   * [GitHub](https://github.com/FirelyTeam/spark)
+  * [Docker Hub](https://hub.docker.com/r/sparkfhir/spark)
 * Commands
   * `curl 'https://raw.githubusercontent.com/FirelyTeam/spark/r4/master/.docker/docker-compose.example.yml' > docker-compose.yml`
   * `docker compose up`
