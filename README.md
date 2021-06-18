@@ -21,7 +21,8 @@ Video tutorial series with information for developers new to FHIR.
 |[FHIR Profiles - An Introduction](https://youtu.be/dFiMAGFPNv8)| | |An overview of FHIR Profiles|
 |[Profiles and Validation in C# Part 01](https://youtu.be/yMV5-fEHdMA)|[08 - C# Profiles and Validation](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/08-CS-Profiling/README.md)|[FHIR C# Profiles and Validation](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic)|Getting started with Profiles in C#|
 |[Profiles and Validation in C# Part 02](https://youtu.be/zZG5Z_DxmBM)|[08 - C# Profiles and Validation](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/08-CS-Profiling/README.md)|[FHIR C# Profiles and Validation](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic)|Making Profiles More Usable|
-|Profiles Part 03 - Coming Soon...| | | |
+|[Profiles and Validation in C# Part 03](https://youtu.be/tFlXDNCd318)|[08 - C# Profiles and Validation](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/08-CS-Profiling/README.md)|[FHIR C# Profiles and Validation](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic)|Complex Extensions|
+|Profiles Part 04 - Coming Soon...| | | |
 |[Local Test Server - Azure](https://youtu.be/o7mBoNGO-WY)|[Test Servers](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/09-Test-Servers/README.md)|-|Setting up a local Azure FHIR server for testing|
 |[Local Test Server - HAPI](https://youtu.be/EaJpJ0aQjiM)|[Test Servers](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/09-Test-Servers/README.md)|-|Setting up a local HAPI FHIR server for testing|
 |[Local Test Server - IBM](https://youtu.be/eirDH6BPD3g)|[Test Servers](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/09-Test-Servers/README.md)|-|Setting up a local IBM FHIR server for testing|
