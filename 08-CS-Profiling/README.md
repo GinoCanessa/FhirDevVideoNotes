@@ -8,6 +8,7 @@ This set of videos covers building a C# application to demonstrate the use of pr
 * [Profiles and Validation in C# Part 01](https://youtu.be/yMV5-fEHdMA)
 * [Profiles and Validation in C# Part 02](https://youtu.be/zZG5Z_DxmBM)
 * [Profiles and Validation in C# Part 03](https://youtu.be/tFlXDNCd318)
+* [Profiles and Validation in C# Part 04](https://youtu.be/-E1TJOv1O98)
 
 ## Notes
 
@@ -15,6 +16,7 @@ This set of videos covers building a C# application to demonstrate the use of pr
 * Part 2: [C# Profiles and Validation, Getting Started](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
 * Part 3: [C# Profiles and Validation, Making Profiles More Usable](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
 * Part 4: [C# Profiles and Validation, Complex Extensions](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
+* Part 5: [C# Profiles and Validation, Slicing, Inherited Profiles, and Factories](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
 
 ## Tools
 
@@ -24,10 +26,14 @@ This set of videos covers building a C# application to demonstrate the use of pr
 
 * [US-Core IG](http://hl7.org/fhir/us/core/)
   * [Downloads](http://hl7.org/fhir/us/core/downloads.html) (first link is the package)
-  * [US-Core Patient](http://hl7.org/fhir/us/core/StructureDefinition-us-core-patient.html)
+  * [US Core Patient](http://hl7.org/fhir/us/core/StructureDefinition-us-core-patient.html)
+  * [US Core Vital Signs](http://hl7.org/fhir/us/core/StructureDefinition-us-core-vital-signs.html)
+  * [US Core Blood Pressure](http://hl7.org/fhir/us/core/StructureDefinition-us-core-blood-pressure.html)
 * [FHIR Patient Resource](http://hl7.org/fhir/patient.html)
+* [FHIR Observation Resource](https://www.hl7.org/fhir/observation.html)
 * [FHIR Resource Metadata](http://hl7.org/fhir/resource.html#Meta)
 * [FHIR Packages](http://packages.fhir.org)
+* [LOINC Blood Pressure Panel](https://loinc.org/85354-9/)
 
 ## Other Links
 
