@@ -9,14 +9,16 @@ This set of videos covers building a C# application to demonstrate the use of pr
 * [Profiles and Validation in C# Part 02](https://youtu.be/zZG5Z_DxmBM)
 * [Profiles and Validation in C# Part 03](https://youtu.be/tFlXDNCd318)
 * [Profiles and Validation in C# Part 04](https://youtu.be/-E1TJOv1O98)
+* [Profiles and Validation in C# Part 05](https://youtu.be/EpzzgQYFjIg)
 
 ## Notes
 
 * Part 1: Introduction to Profiles
-* Part 2: [C# Profiles and Validation, Getting Started](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
-* Part 3: [C# Profiles and Validation, Making Profiles More Usable](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
-* Part 4: [C# Profiles and Validation, Complex Extensions](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
-* Part 5: [C# Profiles and Validation, Slicing, Inherited Profiles, and Factories](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
+* Part 2: [C# Profiles and Validation: Getting Started](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
+* Part 3: [C# Profiles and Validation: Making Profiles More Usable](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
+* Part 4: [C# Profiles and Validation: Complex Extensions](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
+* Part 5: [C# Profiles and Validation: Slicing, Inherited Profiles, and Factories](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
+* Part 6: [C# Profiles and Validation: Starting with Fluent Validation](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
 
 ## Tools
 
@@ -47,5 +49,7 @@ This set of videos covers building a C# application to demonstrate the use of pr
   * `dotnet add package System.CommandLine.DragonFruit --prerelease`
 * [Hl7.Fhir.R4](https://www.nuget.org/packages/Hl7.Fhir.R4/)
   * `dotnet add package Hl7.Fhir.R4`
-* [Hl7.Fhir.R4.](https://www.nuget.org/packages/Hl7.Fhir.Specification.R4/)
+* [Hl7.Fhir.Specification.R4](https://www.nuget.org/packages/Hl7.Fhir.Specification.R4/)
   * `dotnet add package Hl7.Fhir.Specification.R4`
+* [FluentValidation](https://www.nuget.org/packages/FluentValidation) - https://fluentvalidation.net/
+  * `dotnet add package FluentValidation`

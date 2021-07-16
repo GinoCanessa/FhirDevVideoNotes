@@ -30,6 +30,7 @@ Video tutorial series with information for developers new to FHIR.
 |[Profiles and Validation in C# Part 02](https://youtu.be/zZG5Z_DxmBM)|[08 - C# Profiles and Validation](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/08-CS-Profiling/README.md)|[FHIR C# Profiles and Validation](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic)|Making Profiles More Usable|
 |[Profiles and Validation in C# Part 03](https://youtu.be/tFlXDNCd318)|[08 - C# Profiles and Validation](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/08-CS-Profiling/README.md)|[FHIR C# Profiles and Validation](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic)|Complex Extensions|
 |[Profiles and Validation in C# Part 04](https://youtu.be/-E1TJOv1O98)|[08 - C# Profiles and Validation](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/08-CS-Profiling/README.md)|[FHIR C# Profiles and Validation](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic)|Slicing, Inherited Profiles, and Factories|
+|[Profiles and Validation in C# Part 05](https://youtu.be/EpzzgQYFjIg)|[08 - C# Profiles and Validation](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/08-CS-Profiling/README.md)|[FHIR C# Profiles and Validation](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic)|Starting with Fluent Validation|
 
 ## Tooling
 
