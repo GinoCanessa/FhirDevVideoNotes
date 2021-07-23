@@ -10,6 +10,7 @@ This set of videos covers building a C# application to demonstrate the use of pr
 * [Profiles and Validation in C# Part 03](https://youtu.be/tFlXDNCd318)
 * [Profiles and Validation in C# Part 04](https://youtu.be/-E1TJOv1O98)
 * [Profiles and Validation in C# Part 05](https://youtu.be/EpzzgQYFjIg)
+* [Profiles and Validation in C# Part 06](https://youtu.be/4Wszh6pWIkk)
 
 ## Notes
 
@@ -19,6 +20,7 @@ This set of videos covers building a C# application to demonstrate the use of pr
 * Part 4: [C# Profiles and Validation: Complex Extensions](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
 * Part 5: [C# Profiles and Validation: Slicing, Inherited Profiles, and Factories](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
 * Part 6: [C# Profiles and Validation: Starting with Fluent Validation](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
+* Part 7: [C# Profiles and Validation: Continuing with Fluent Validation](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic/blob/main/README.md)
 
 ## Tools
 
@@ -42,6 +44,10 @@ This set of videos covers building a C# application to demonstrate the use of pr
 * [FHIR Validation](http://hl7.org/fhir/validation.html)
 * [Inferno Validator](https://inferno.healthit.gov/validator/)
 * [Firely Terminal Download](https://simplifier.net/downloads/firely-terminal)
+* [Fluent Validation](https://fluentvalidation.net/)
+  * [Creating your first Validator](https://docs.fluentvalidation.net/en/latest/start.html)
+  * [Collections](https://docs.fluentvalidation.net/en/latest/collections.html)
+  * [Custom Validators](https://docs.fluentvalidation.net/en/latest/custom-validators.html)
 
 ## NuGet Packages
 
