@@ -46,7 +46,7 @@ Video tutorial series with information for developers new to FHIR.
 
 |Video|Readme|Repo|Description|
 |-----|------|----|-----------|
-|[Subscriptions Overview](https://youtu.be/sATtVvvRT14)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|State of Subscriptions in August 2021|
+|[Subscriptions Overview](https://youtu.be/aF95Vpqsp9s)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|State of Subscriptions in August 2021|
 
 ## All Videos
 

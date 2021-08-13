@@ -2,7 +2,7 @@
 
 ## Videos
 
-* [Subscriptions Overview](https://youtu.be/sATtVvvRT14)
+* [Subscriptions Overview](https://youtu.be/aF95Vpqsp9s)
 
 ## Links
 
