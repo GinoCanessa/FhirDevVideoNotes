@@ -11,6 +11,8 @@ Video tutorial series with information for developers new to FHIR.
 |[FHIR via HTTP](https://www.youtube.com/watch?v=eBAQYMT2KtM)|[02-FHIR-HTTP](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/02-FHIR-HTTP/README.md)|-|How to interact with a FHIR server via HTTP and the RESTful API.
 |[Getting SMART: Authorization Overview](https://www.youtube.com/watch?v=4okFXW0Ex1E)|[03-Getting SMART](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/03-Getting-SMART/README.md)|-|Overview of SMART Authorization / App Launch Framework.
 |[FHIR Profiles - An Introduction](https://youtu.be/dFiMAGFPNv8)| | |An overview of FHIR Profiles|
+|[Subscriptions Overview](https://youtu.be/aF95Vpqsp9s)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|State of Subscriptions in August 2021|
+|[Subscriptions Specification Walkthrough](https://youtu.be/skbxcrroiBo)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|Walkthrough of the IG and new Resources (August 2021)|
 
 
 ## C#
@@ -47,6 +49,7 @@ Video tutorial series with information for developers new to FHIR.
 |Video|Readme|Repo|Description|
 |-----|------|----|-----------|
 |[Subscriptions Overview](https://youtu.be/aF95Vpqsp9s)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|State of Subscriptions in August 2021|
+|[Specification Walkthrough](https://youtu.be/skbxcrroiBo)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|Walkthrough of the IG and new Resources (August 2021)|
 
 ## All Videos
 

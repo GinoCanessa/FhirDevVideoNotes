@@ -2,7 +2,8 @@
 
 ## Videos
 
-* [Subscriptions Overview](https://youtu.be/aF95Vpqsp9s)
+1. [Subscriptions Overview](https://youtu.be/aF95Vpqsp9s)
+1. [Specification Walkthrough](https://youtu.be/skbxcrroiBo)
 
 ## Links
 
