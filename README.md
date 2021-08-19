@@ -50,6 +50,7 @@ Video tutorial series with information for developers new to FHIR.
 |-----|------|----|-----------|
 |[Subscriptions Overview](https://youtu.be/aF95Vpqsp9s)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|State of Subscriptions in August 2021|
 |[Specification Walkthrough](https://youtu.be/skbxcrroiBo)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|Walkthrough of the IG and new Resources (August 2021)|
+|[Reference Implementation Tour](https://youtu.be/B5bzGOlZ800)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|Tour of the Reference Implementation (August 2021)|
 
 ## All Videos
 
@@ -79,3 +80,7 @@ Video tutorial series with information for developers new to FHIR.
 |[Local Test Server - HAPI](https://youtu.be/EaJpJ0aQjiM)|[Test Servers](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/09-Test-Servers/README.md)|-|Setting up a local HAPI FHIR server for testing|
 |[Local Test Server - IBM](https://youtu.be/eirDH6BPD3g)|[Test Servers](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/09-Test-Servers/README.md)|-|Setting up a local IBM FHIR server for testing|
 |[Local Test Server - Spark](https://youtu.be/lQGOgQHfDJc)|[Test Servers](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/09-Test-Servers/README.md)|-|Setting up a local IBM FHIR server for testing|
+| - - | | | |
+|[Subscriptions Overview](https://youtu.be/aF95Vpqsp9s)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|State of Subscriptions in August 2021|
+|[Specification Walkthrough](https://youtu.be/skbxcrroiBo)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|Walkthrough of the IG and new Resources (August 2021)|
+|[Reference Implementation Tour](https://youtu.be/B5bzGOlZ800)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|Tour of the Reference Implementation (August 2021)|
