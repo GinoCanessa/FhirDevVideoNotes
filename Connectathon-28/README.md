@@ -6,6 +6,8 @@
 1. [Specification Walkthrough](https://youtu.be/skbxcrroiBo)
 1. [Reference Implementation Tour](https://youtu.be/B5bzGOlZ800)
 1. [Manual Testing](https://youtu.be/sEmH0MEYYjc)
+1. C# Notification Listening Server
+1.1. [Part 01 - Listening for Notifications](https://youtu.be/SBZDavAgSSo)
 
 ## Links
 
@@ -32,3 +34,5 @@
   * [REST Client Extension](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
   * GitHub
     * [Subscriptions Test Scripts](https://github.com/microsoft-healthcare-madison/subscriptions-test-scripts)
+* C# Notification Listening Server
+  * [C# REST Endpoint](https://github.com/GinoCanessa/Subscription-CS-Endpoint)
