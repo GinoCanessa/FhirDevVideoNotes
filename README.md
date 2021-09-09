@@ -50,7 +50,8 @@ Video tutorial series with information for developers new to FHIR.
 |-----|------|----|-----------|
 |[Subscriptions Overview](https://youtu.be/aF95Vpqsp9s)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|State of Subscriptions in August 2021|
 |[Specification Walkthrough](https://youtu.be/skbxcrroiBo)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|Walkthrough of the IG and new Resources (August 2021)|
-|[Reference Implementation Tour](https://youtu.be/B5bzGOlZ800)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|Tour of the Reference Implementation (August 2021)|
+|[Reference Implementation Tour](https://youtu.be/B5bzGOlZ800)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|[Proxy Server](https://github.com/microsoft-healthcare-madison/argonaut-subscription-server-proxy) - [Client](https://github.com/microsoft-healthcare-madison/argonaut-subscription-client) - [UI](https://github.com/microsoft-healthcare-madison/argonaut-subscription-client-ui)|Tour of the Reference Implementation (August 2021)|
+|[Manual Request Tour](https://youtu.be/sEmH0MEYYjc)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|[Subscriptions Test Scripts](https://github.com/microsoft-healthcare-madison/subscriptions-test-scripts)|How to make manual Subscriptions requests (Sept 2021)|
 
 ## All Videos
 
@@ -83,4 +84,5 @@ Video tutorial series with information for developers new to FHIR.
 | - - | | | |
 |[Subscriptions Overview](https://youtu.be/aF95Vpqsp9s)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|State of Subscriptions in August 2021|
 |[Specification Walkthrough](https://youtu.be/skbxcrroiBo)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|Walkthrough of the IG and new Resources (August 2021)|
-|[Reference Implementation Tour](https://youtu.be/B5bzGOlZ800)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|Tour of the Reference Implementation (August 2021)|
+|[Reference Implementation Tour](https://youtu.be/B5bzGOlZ800)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|[Proxy Server](https://github.com/microsoft-healthcare-madison/argonaut-subscription-server-proxy) - [Client](https://github.com/microsoft-healthcare-madison/argonaut-subscription-client) - [UI](https://github.com/microsoft-healthcare-madison/argonaut-subscription-client-ui)|Tour of the Reference Implementation (August 2021)|
+|[Manual Request Tour](https://youtu.be/sEmH0MEYYjc)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|[Subscriptions Test Scripts](https://github.com/microsoft-healthcare-madison/subscriptions-test-scripts)|How to make manual Subscriptions requests (Sept 2021)|
