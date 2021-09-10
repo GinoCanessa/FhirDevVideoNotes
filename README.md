@@ -36,6 +36,7 @@ Video tutorial series with information for developers new to FHIR.
 |[Profiles and Validation in C# Part 06](https://youtu.be/4Wszh6pWIkk)|[08 - C# Profiles and Validation](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/08-CS-Profiling/README.md)|[FHIR C# Profiles and Validation](https://github.com/GinoCanessa/FHIR-CS-Profiling-Basic)|Continuing with Fluent Validation|
 ||
 |[C# REST Endpoint - Part 01](https://youtu.be/sEmH0MEYYjc)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|[C# REST Endpoint](https://github.com/GinoCanessa/Subscription-CS-Endpoint)|Listening for FHIR Subscription notifications in C#|
+|[C# REST Endpoint - Part 02](https://youtu.be/T8t1t6nTDtA)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|[C# REST Endpoint](https://github.com/GinoCanessa/Subscription-CS-Endpoint)|Public URL Tunnling for Dev/Testing|
 
 
 ## Tooling
@@ -56,6 +57,7 @@ Video tutorial series with information for developers new to FHIR.
 |[Reference Implementation Tour](https://youtu.be/B5bzGOlZ800)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|[Proxy Server](https://github.com/microsoft-healthcare-madison/argonaut-subscription-server-proxy) - [Client](https://github.com/microsoft-healthcare-madison/argonaut-subscription-client) - [UI](https://github.com/microsoft-healthcare-madison/argonaut-subscription-client-ui)|Tour of the Reference Implementation (August 2021)|
 |[Manual Request Tour](https://youtu.be/sEmH0MEYYjc)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|[Subscriptions Test Scripts](https://github.com/microsoft-healthcare-madison/subscriptions-test-scripts)|How to make manual Subscriptions requests (Sept 2021)|
 |[C# REST Endpoint - Part 01](https://youtu.be/sEmH0MEYYjc)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|[C# REST Endpoint](https://github.com/GinoCanessa/Subscription-CS-Endpoint)|Listening for FHIR Subscription notifications in C#|
+|[C# REST Endpoint - Part 02](https://youtu.be/T8t1t6nTDtA)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|[C# REST Endpoint](https://github.com/GinoCanessa/Subscription-CS-Endpoint)|Public URL Tunnling for Dev/Testing|
 
 ## All Videos
 
@@ -91,3 +93,4 @@ Video tutorial series with information for developers new to FHIR.
 |[Reference Implementation Tour](https://youtu.be/B5bzGOlZ800)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|[Proxy Server](https://github.com/microsoft-healthcare-madison/argonaut-subscription-server-proxy) - [Client](https://github.com/microsoft-healthcare-madison/argonaut-subscription-client) - [UI](https://github.com/microsoft-healthcare-madison/argonaut-subscription-client-ui)|Tour of the Reference Implementation (August 2021)|
 |[Manual Request Tour](https://youtu.be/sEmH0MEYYjc)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|[Subscriptions Test Scripts](https://github.com/microsoft-healthcare-madison/subscriptions-test-scripts)|How to make manual Subscriptions requests (Sept 2021)|
 |[C# REST Endpoint - Part 01](https://youtu.be/sEmH0MEYYjc)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|[C# REST Endpoint](https://github.com/GinoCanessa/Subscription-CS-Endpoint)|Listening for FHIR Subscription notifications in C#|
+|[C# REST Endpoint - Part 02](https://youtu.be/T8t1t6nTDtA)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|[C# REST Endpoint](https://github.com/GinoCanessa/Subscription-CS-Endpoint)|Public URL Tunnling for Dev/Testing|

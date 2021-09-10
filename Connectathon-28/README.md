@@ -8,6 +8,7 @@
 1. [Manual Testing](https://youtu.be/sEmH0MEYYjc)
 1. C# Notification Listening Server
 1.1. [Part 01 - Listening for Notifications](https://youtu.be/SBZDavAgSSo)
+1.1. [Part 02 - Public URL Tunneling](https://youtu.be/T8t1t6nTDtA)
 
 ## Links
 
@@ -36,3 +37,14 @@
     * [Subscriptions Test Scripts](https://github.com/microsoft-healthcare-madison/subscriptions-test-scripts)
 * C# Notification Listening Server
   * [C# REST Endpoint](https://github.com/GinoCanessa/Subscription-CS-Endpoint)
+  * Public URL Tunneling
+    * LocalTunnel
+      * Project [Docs](https://localtunnel.github.io/www/)
+      * Project [GitHub](https://github.com/localtunnel/localtunnel)
+    * LocalTunnel C# / .Net
+      * Project [GitHub](https://github.com/angelobreuer/localtunnel-client)
+      * CLI [NuGet](https://www.nuget.org/packages/Localtunnel.Cli/)
+      * Code [NuGet](https://www.nuget.org/packages/Localtunnel/)
+    * Others tunneling services
+      * [ngrok](https://ngrok.com/)
+      * [PageKite](https://pagekite.net/)
