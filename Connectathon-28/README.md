@@ -5,11 +5,11 @@
 1. [Subscriptions Overview](https://youtu.be/aF95Vpqsp9s)
 2. [Specification Walkthrough](https://youtu.be/skbxcrroiBo)
 3. [Reference Implementation Tour](https://youtu.be/B5bzGOlZ800)
-3.1. [RI Updates - Endpoint Scenario](https://youtu.be/E-C31uPoCSw)
+  1. [RI Updates - Endpoint Scenario](https://youtu.be/E-C31uPoCSw)
 4. [Manual Testing](https://youtu.be/sEmH0MEYYjc)
 5. C# Notification Listening Server
-5.1. [Part 01 - Listening for Notifications](https://youtu.be/SBZDavAgSSo)
-5.1. [Part 02 - Public URL Tunneling](https://youtu.be/T8t1t6nTDtA)
+  1. [Part 01 - Listening for Notifications](https://youtu.be/SBZDavAgSSo)
+  1. [Part 02 - Public URL Tunneling](https://youtu.be/T8t1t6nTDtA)
 
 ## Links
 
