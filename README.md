@@ -14,6 +14,7 @@ Video tutorial series with information for developers new to FHIR.
 |[Subscriptions Overview](https://youtu.be/aF95Vpqsp9s)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|State of Subscriptions in August 2021|
 |[Subscriptions Specification Walkthrough](https://youtu.be/skbxcrroiBo)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|-|Walkthrough of the IG and new Resources (August 2021)|
 |[FHIR Search - An Introduction](https://youtu.be/pozHEE_c5hI)| [Search](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/10-Search/README.md) | |An overview of FHIR Search|
+|[FHIR Search - Types, Modifiers, and Prefixes](https://youtu.be/zVwQM9lBKaA)| [Search](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/10-Search/README.md) | |Search data types and search modifiers and prefixes|
 
 
 ## C#
@@ -99,3 +100,4 @@ Video tutorial series with information for developers new to FHIR.
 |[C# REST Endpoint - Part 02](https://youtu.be/T8t1t6nTDtA)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|[C# REST Endpoint](https://github.com/GinoCanessa/Subscription-CS-Endpoint)|Public URL Tunnling for Dev/Testing|
 | - - | | | |
 |[FHIR Search - An Introduction](https://youtu.be/pozHEE_c5hI)| [Search](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/10-Search/README.md) | |An overview of FHIR Search|
+|[FHIR Search - Types, Modifiers, and Prefixes](https://youtu.be/zVwQM9lBKaA)| [Search](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/10-Search/README.md) | |Search data types and search modifiers and prefixes|
