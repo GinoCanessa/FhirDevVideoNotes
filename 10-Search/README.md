@@ -6,9 +6,7 @@ This set of videos covers FHIR Search.
 
 * [FHIR Search - An Introduction](https://youtu.be/pozHEE_c5hI)
 * [FHIR Search - Types, Modifiers, and Prefixes](https://youtu.be/zVwQM9lBKaA)
-## Notes
-
-* Part 1: Introduction to Search
+* [FHIR Search - Result Parameters](https://youtu.be/qYTwO7y7ZhU)
 
 ## Tools
 
