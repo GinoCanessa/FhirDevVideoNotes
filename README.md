@@ -16,6 +16,7 @@ Video tutorial series with information for developers new to FHIR.
 |[FHIR Search - An Introduction](https://youtu.be/pozHEE_c5hI)| [Search](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/10-Search/README.md) | |An overview of FHIR Search|
 |[FHIR Search - Types, Modifiers, and Prefixes](https://youtu.be/zVwQM9lBKaA)| [Search](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/10-Search/README.md) | |Search data types and search modifiers and prefixes|
 |[FHIR Search - Result Parameters](https://youtu.be/qYTwO7y7ZhU)| [Search](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/10-Search/README.md) | |Search result parameters|
+|[FHIR Search - Chaining and Including](https://youtu.be/P9Kq0Qvlkpo)| [Search](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/10-Search/README.md) | |Using links between resources as criteria and/or returning additional resources.|
 
 
 ## C#
@@ -103,3 +104,4 @@ Video tutorial series with information for developers new to FHIR.
 |[FHIR Search - An Introduction](https://youtu.be/pozHEE_c5hI)| [Search](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/10-Search/README.md) | |An overview of FHIR Search|
 |[FHIR Search - Types, Modifiers, and Prefixes](https://youtu.be/zVwQM9lBKaA)| [Search](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/10-Search/README.md) | |Search data types and search modifiers and prefixes|
 |[FHIR Search - Result Parameters](https://youtu.be/qYTwO7y7ZhU)| [Search](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/10-Search/README.md) | |Search result parameters|
+|[FHIR Search - Chaining and Including](https://youtu.be/P9Kq0Qvlkpo)| [Search](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/10-Search/README.md) | |Using links between resources as criteria and/or returning additional resources.|
