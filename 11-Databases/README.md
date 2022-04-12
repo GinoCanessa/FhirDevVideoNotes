@@ -5,6 +5,7 @@ This set of videos explores FHIR and databases interactions.
 ## Video Links
 
 * [Overview](https://youtu.be/c-I04rtBZLc)
+* [Creating a WebAPI Project](https://youtu.be/a1eS3z0am6E)
 * Docker backends:
   * Apache Cassanda
   * Microsoft SQL Server
@@ -49,6 +50,17 @@ This set of videos explores FHIR and databases interactions.
       * Need to be careful with data syncrhonization
     Not discussed:
     * Version management (e.g., FHIR R4 vs R5)
+
+
+## Databases
+
+* [Apache Cassandra](cassandra.md)
+* [Microsoft SQL Server](mssql.md)
+* [MongoDB](mongodb.md)
+
+## Other Tools
+
+* [DB Designer](https://www.dbdesigner.net/)
 
 ## FHIR Links
 

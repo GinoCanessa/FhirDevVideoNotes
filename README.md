@@ -7,7 +7,7 @@ Video tutorial series with information for developers new to FHIR.
 
 |Video|Readme|Repo|Description|
 |-----|------|----|-----------|
-|[FHIR Databases - Overview](https://youtu.be/c-I04rtBZLc)|[Databases](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/11-Databases/README.md)|-|Overview of FHIR and Databases|
+|[FHIR Databases - Creating a WebAPI](https://youtu.be/a1eS3z0am6E)|[11 - C# Database Exploration](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/11-Databases/README.md)|[FHIR C# Databases](https://github.com/GinoCanessa/FHIR-CS-Databases)|Creating a FHIR WebAPI project|
 
 ## Specification Videos
 
@@ -47,12 +47,17 @@ Video tutorial series with information for developers new to FHIR.
 ||
 |[C# REST Endpoint - Part 01](https://youtu.be/sEmH0MEYYjc)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|[C# REST Endpoint](https://github.com/GinoCanessa/Subscription-CS-Endpoint)|Listening for FHIR Subscription notifications in C#|
 |[C# REST Endpoint - Part 02](https://youtu.be/T8t1t6nTDtA)|[Connectathon 28](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/Connectathon-28/README.md)|[C# REST Endpoint](https://github.com/GinoCanessa/Subscription-CS-Endpoint)|Public URL Tunnling for Dev/Testing|
+||
+|[FHIR Databases - Creating a WebAPI](https://youtu.be/a1eS3z0am6E)|[11 - C# Database Exploration](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/11-Databases/README.md)|[FHIR C# Databases](https://github.com/GinoCanessa/FHIR-CS-Databases)|Creating a FHIR WebAPI project|
+
 
 ## Databases
 
 |Video|Readme|Repo|Description|
 |-----|------|----|-----------|
 |[Overview](https://youtu.be/c-I04rtBZLc)|[Databases](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/11-Databases/README.md)|-|Overview of FHIR and Databases|
+|[FHIR Databases - Creating a WebAPI](https://youtu.be/a1eS3z0am6E)|[11 - C# Database Exploration](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/11-Databases/README.md)|[FHIR C# Databases](https://github.com/GinoCanessa/FHIR-CS-Databases)|Creating a FHIR WebAPI project|
+
 
 ## Tooling
 
@@ -117,4 +122,5 @@ Video tutorial series with information for developers new to FHIR.
 |[FHIR Search - Result Parameters](https://youtu.be/qYTwO7y7ZhU)| [Search](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/10-Search/README.md) | |Search result parameters|
 |[FHIR Search - Chaining and Including](https://youtu.be/P9Kq0Qvlkpo)| [Search](https://github.com/GinoCanessa/FhirDevVideoNotes/blob/main/10-Search/README.md) | |Using links between resources as criteria and/or returning additional resources.|
 | - - | | | |
-|[Overview](https://youtu.be/c-I04rtBZLc)|[Databases](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/11-Databases/README.md)|-|Overview of FHIR and Databases|
+|[Overview](https://youtu.be/c-I04rtBZLc)|[11 - C# Database Exploration](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/11-Databases/README.md)|-|Overview of FHIR and Databases|
+|[FHIR Databases - Creating a WebAPI](https://youtu.be/a1eS3z0am6E)|[11 - C# Database Exploration](https://github.com/GinoCanessa/FhirDevVideoNotes/tree/main/11-Databases/README.md)|[FHIR C# Databases](https://github.com/GinoCanessa/FHIR-CS-Databases)|Creating a FHIR WebAPI project|
